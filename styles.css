@@ -1,0 +1,30 @@
+ body{
+	background: green;
+	color:white;
+}
+a{
+	color:white;
+	font-size: 12pt;
+	font-family: monospace;
+	text-decoration: none;
+}
+a:hover{
+	color:black;
+	background: white;
+	text-decoration: none;
+}
+	
+.greenlink:hover{
+	color:yellow;
+	background:gray;
+}
+h1{
+	font-family: "Times new roman" serif;
+	font-size: 30pt;	
+}
+.sunil {
+	margin-left: 20px;
+}
+.pooja {
+	margin-bottom: 40px;
+}
